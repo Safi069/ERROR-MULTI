@@ -1,1 +1,6 @@
 colorama
+pyttsx3
+wikipedia
+qrcode
+pyshorteners
+faker
